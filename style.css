@@ -1,15 +1,31 @@
-body{
+body {
     font-family: 'Poppins', sans-serif;
 }
-h1{
-    font-size: 40px;
+
+h1 {
+    font-size: 5S0px;
 }
-.orange-color{
+
+.orange-color {
     color: orange;
 }
-.aqua-color{
+
+.aqua-color {
     color: aqua;
 }
-.aquamarine-color{
-    color:aquamarine;
+
+.aquamarine-color {
+    color: aquamarine;
+}
+
+.half-width {
+    width: 50%;
+}
+
+section {
+    display: flex;
+}
+
+.half-width img {
+    width: 80%;
 }
